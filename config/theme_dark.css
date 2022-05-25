@@ -1,0 +1,21 @@
+:root {
+    --primary: #890DD6;
+    --primary-text: #ffffff;
+    --secondary: #890DD6;
+    --secondary-text: #666;
+    --accent: #F42D2D;
+    --accent-text: #1a1a1a;
+    --bg: #09080D;
+    --grey: #1a1222;
+    --grey2: #24182F;
+    --white: #120C18;
+  }
+  
+  .filter-primary{
+    filter: invert(11%) sepia(84%) saturate(7486%) hue-rotate(280deg) brightness(90%) contrast(101%);
+    margin: -2px 4px;
+  }
+  
+  .filter-svg-primary{
+    filter: invert(11%) sepia(84%) saturate(7486%) hue-rotate(280deg) brightness(90%) contrast(101%);
+  }
