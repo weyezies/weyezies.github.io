@@ -1,0 +1,663 @@
+{
+"Background": [
+{
+"trait": "Aurora",
+"weight": "1",
+"occurrence": "69"
+},
+{
+"trait": "Black",
+"weight": "4",
+"occurrence": "254"
+},
+{
+"trait": "Blue",
+"weight": "9",
+"occurrence": "580"
+},
+{
+"trait": "Brown",
+"weight": "9",
+"occurrence": "595"
+},
+{
+"trait": "Cyan",
+"weight": "8",
+"occurrence": "538"
+},
+{
+"trait": "Fortegreen",
+"weight": "6",
+"occurrence": "386"
+},
+{
+"trait": "Green",
+"weight": "9",
+"occurrence": "582"
+},
+{
+"trait": "Happy",
+"weight": "4",
+"occurrence": "251"
+},
+{
+"trait": "Laser",
+"weight": "3",
+"occurrence": "198"
+},
+{
+"trait": "Lime",
+"weight": "13",
+"occurrence": "828"
+},
+{
+"trait": "Orange",
+"weight": "12",
+"occurrence": "787"
+},
+{
+"trait": "Pink",
+"weight": "11",
+"occurrence": "733"
+},
+{
+"trait": "Purple",
+"weight": "15",
+"occurrence": "1014"
+},
+{
+"trait": "Red",
+"weight": "12",
+"occurrence": "776"
+},
+{
+"trait": "Star",
+"weight": "2",
+"occurrence": "136"
+},
+{
+"trait": "Tan",
+"weight": "10",
+"occurrence": "684"
+},
+{
+"trait": "Waves",
+"weight": "3",
+"occurrence": "206"
+},
+{
+"trait": "Wheel",
+"weight": "1",
+"occurrence": "64"
+},
+{
+"trait": "White",
+"weight": "11",
+"occurrence": "716"
+},
+{
+"trait": "Yellow",
+"weight": "10",
+"occurrence": "603"
+}
+]
+,
+"Body": [
+{
+"trait": "Ancient",
+"weight": "1",
+"occurrence": "44"
+},
+{
+"trait": "Black",
+"weight": "4",
+"occurrence": "233"
+},
+{
+"trait": "Blue",
+"weight": "7",
+"occurrence": "415"
+},
+{
+"trait": "Brown",
+"weight": "6",
+"occurrence": "349"
+},
+{
+"trait": "Checkered",
+"weight": "1",
+"occurrence": "65"
+},
+{
+"trait": "Cyan",
+"weight": "12",
+"occurrence": "741"
+},
+{
+"trait": "Fortegreen",
+"weight": "4",
+"occurrence": "252"
+},
+{
+"trait": "Gold",
+"weight": "1",
+"occurrence": "62"
+},
+{
+"trait": "Green",
+"weight": "15",
+"occurrence": "874"
+},
+{
+"trait": "Lime",
+"weight": "15",
+"occurrence": "953"
+},
+{
+"trait": "Multi",
+"weight": "3",
+"occurrence": "175"
+},
+{
+"trait": "Orange",
+"weight": "15",
+"occurrence": "971"
+},
+{
+"trait": "Pink",
+"weight": "13",
+"occurrence": "803"
+},
+{
+"trait": "Pride",
+"weight": "12",
+"occurrence": "775"
+},
+{
+"trait": "Purple",
+"weight": "9",
+"occurrence": "565"
+},
+{
+"trait": "Red",
+"weight": "15",
+"occurrence": "884"
+},
+{
+"trait": "Tan",
+"weight": "12",
+"occurrence": "762"
+},
+{
+"trait": "Transparent",
+"weight": "1",
+"occurrence": "47"
+},
+{
+"trait": "White",
+"weight": "4",
+"occurrence": "233"
+},
+{
+"trait": "Yellow",
+"weight": "14",
+"occurrence": "797"
+}
+]
+,
+"Emotion": [
+{
+"trait": "Amazed",
+"weight": "15",
+"occurrence": "1186)"
+},
+{
+"trait": "Angry",
+"weight": "10",
+"occurrence": "803"
+},
+{
+"trait": "Aroused",
+"weight": "1",
+"occurrence": "69"
+},
+{
+"trait": "Cautious",
+"weight": "5",
+"occurrence": "392"
+},
+{
+"trait": "Confused",
+"weight": "4",
+"occurrence": "296"
+},
+{
+"trait": "Delighted",
+"weight": "6",
+"occurrence": "443"
+},
+{
+"trait": "Delightful",
+"weight": "5",
+"occurrence": "387"
+},
+{
+"trait": "Disiked",
+"weight": "7",
+"occurrence": "569"
+},
+{
+"trait": "Disliked",
+"weight": "8",
+"occurrence": "630"
+},
+{
+"trait": "Dreaming",
+"weight": "1",
+"occurrence": "78"
+},
+{
+"trait": "Envious",
+"weight": "9",
+"occurrence": "727"
+},
+{
+"trait": "Excited",
+"weight": "1",
+"occurrence": "72"
+},
+{
+"trait": "Frightened",
+"weight": "1",
+"occurrence": "88"
+},
+{
+"trait": "Happy",
+"weight": "15",
+"occurrence": "1217"
+},
+{
+"trait": "Lonely",
+"weight": "11",
+"occurrence": "894"
+},
+{
+"trait": "Panicked",
+"weight": "3",
+"occurrence": "241"
+},
+{
+"trait": "Pleased",
+"weight": "1",
+"occurrence": "68"
+},
+{
+"trait": "Relieved",
+"weight": "12",
+"occurrence": "932"
+},
+{
+"trait": "Sorrow",
+"weight": "7",
+"occurrence": "542"
+},
+{
+"trait": "Weary",
+"weight": "5",
+"occurrence": "366"
+}
+]
+,
+
+"Shirt": [
+{
+"trait": "420",
+"weight": "20",
+"occurrence": "872"
+},
+{
+"trait": "Army",
+"weight": "15",
+"occurrence": "664"
+},
+{
+"trait": "Ciklos",
+"weight": "7",
+"occurrence": "309"
+},
+{
+"trait": "Classic",
+"weight": "13",
+"occurrence": "601"
+},
+{
+"trait": "Dream",
+"weight": "12",
+"occurrence": "546"
+},
+{
+"trait": "ETH",
+"weight": "11",
+"occurrence": "467"
+},
+{
+"trait": "Eyes",
+"weight": "1",
+"occurrence": "53"
+},
+{
+"trait": "Fish",
+"weight": "16",
+"occurrence": "664"
+},
+{
+"trait": "Flower",
+"weight": "12",
+"occurrence": "564"
+},
+{
+"trait": "GreenNFT",
+"weight": "2",
+"occurrence": "85"
+},
+{
+"trait": "Luxury",
+"weight": "10",
+"occurrence": "413"
+},
+{
+"trait": "Money",
+"weight": "9",
+"occurrence": "423"
+},
+{
+"trait": "Muerto",
+"weight": "8",
+"occurrence": "355"
+},
+{
+"trait": "Naked",
+"weight": "1",
+"occurrence": "46"
+},
+{
+"trait": "Nazar",
+"weight": "20",
+"occurrence": "858"
+},
+{
+"trait": "Peace",
+"weight": "13",
+"occurrence": "583"
+},
+{
+"trait": "Polka",
+"weight": "9",
+"occurrence": "398"
+},
+{
+"trait": "Pride",
+"weight": "14",
+"occurrence": "677"
+},
+{
+"trait": "Sport",
+"weight": "17",
+"occurrence": "729"
+},
+{
+"trait": "VS",
+"weight": "9",
+"occurrence": "370"
+},
+{
+"trait": "YellowNFT",
+"weight": "2",
+"occurrence": "102"
+},
+{
+"trait": "YinYang",
+"weight": "5",
+"occurrence": "221"
+}
+]
+,
+"Accessories": [
+{
+  "trait": "Chain",
+  "weight": "4",
+  "occurrence": "442"
+},
+{
+  "trait": "ChainETH",
+  "weight": "16",
+  "occurrence": "1791)"
+},
+{
+  "trait": "Cross",
+  "weight": "11",
+  "occurrence": "1257)"
+},
+{
+  "trait": "Naxos",
+  "weight": "16",
+  "occurrence": "1834)"
+},
+{
+  "trait": "Nothing",
+  "weight": "25",
+  "occurrence": "2895)"
+},
+{
+  "trait": "Pearl",
+  "weight": "2",
+  "occurrence": "234"
+},
+{
+  "trait": "Scurf",
+  "weight": "8",
+  "occurrence": "873"
+},
+{
+  "trait": "Tie",
+  "weight": "4",
+  "occurrence": "459"
+},
+{
+  "trait": "TieETH",
+  "weight": "2",
+  "occurrence": "215"
+}
+]
+,
+"Face": [
+{
+  "trait": "Adibas",
+  "weight": "1",
+  "occurrence": "119"
+},
+{
+  "trait": "BayRan",
+  "weight": "7",
+  "occurrence": "701"
+},
+{
+  "trait": "BeardLong",
+  "weight": "8",
+  "occurrence": "815"
+},
+{
+  "trait": "BeardShort",
+  "weight": "10",
+  "occurrence": "1013"
+},
+{
+  "trait": "Earings",
+  "weight": "5",
+  "occurrence": "514"
+},
+{
+  "trait": "Glasses",
+  "weight": "15",
+  "occurrence": "1509"
+},
+{
+  "trait": "Moustache",
+  "weight": "6",
+  "occurrence": "632"
+},
+{
+  "trait": "Nothing",
+  "weight": "43",
+  "occurrence": "4407"
+},
+{
+  "trait": "Nyke",
+  "weight": "1",
+  "occurrence": "101"
+},
+{
+  "trait": "Pirate",
+  "weight": "2",
+  "occurrence": "189"
+}
+]
+,
+"Head": [
+{
+  "trait": "Asian",
+  "weight": "14",
+  "occurrence": "683"
+},
+{
+  "trait": "Blank",
+  "weight": "60",
+  "occurrence": "2914"
+},
+{
+  "trait": "Blues",
+  "weight": "8",
+  "occurrence": "367"
+},
+{
+  "trait": "Cap",
+  "weight": "4",
+  "occurrence": "166"
+},
+{
+  "trait": "Cat",
+  "weight": "3",
+  "occurrence": "140"
+},
+{
+  "trait": "Cowboy",
+  "weight": "2",
+  "occurrence": "90"
+},
+{
+  "trait": "Crown",
+  "weight": "4",
+  "occurrence": "205"
+},
+{
+  "trait": "Devil",
+  "weight": "1",
+  "occurrence": "40"
+},
+{
+  "trait": "Disco",
+  "weight": "3",
+  "occurrence": "143"
+},
+{
+  "trait": "Funk",
+  "weight": "5",
+  "occurrence": "240"
+},
+{
+  "trait": "Gospel",
+  "weight": "5",
+  "occurrence": "229"
+},
+{
+  "trait": "Goth",
+  "weight": "3",
+  "occurrence": "140"
+},
+{
+  "trait": "Grunge",
+  "weight": "3",
+  "occurrence": "123"
+},
+{
+  "trait": "HatLady",
+  "weight": "8",
+  "occurrence": "381"
+},
+{
+  "trait": "HatUFO",
+  "weight": "9",
+  "occurrence": "420"
+},
+{
+  "trait": "Headphones",
+  "weight": "14",
+  "occurrence": "691"
+},
+{
+  "trait": "Jazz",
+  "weight": "3",
+  "occurrence": "123"
+},
+{
+  "trait": "LadyHat",
+  "weight": "2",
+  "occurrence": "106"
+},
+{
+  "trait": "Magic Hat",
+  "weight": "12",
+  "occurrence": "622"
+},
+{
+  "trait": "Metal",
+  "weight": "3",
+  "occurrence": "147"
+},
+{
+  "trait": "Pop",
+  "weight": "6",
+  "occurrence": "264"
+},
+{
+  "trait": "PunkPink",
+  "weight": "1",
+  "occurrence": "49"
+},
+{
+  "trait": "PunkWhite",
+  "weight": "1",
+  "occurrence": "60"
+},
+{
+  "trait": "PunkYellow",
+  "weight": "1",
+  "occurrence": "49"
+},
+{
+  "trait": "Rock",
+  "weight": "14",
+  "occurrence": "656"
+},
+{
+  "trait": "Soul",
+  "weight": "12",
+  "occurrence": "566"
+},
+{
+  "trait": "War",
+  "weight": "8",
+  "occurrence": "386"
+}
+]
+}
