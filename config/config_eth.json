@@ -1,0 +1,27 @@
+{
+    "CONTRACT_ADDRESS": "0x981aF070f606643A4D2B8FF3E5Dcc89E650a375a",
+    "SCAN_LINK": "https://polygonscan.com/token/0x981aF070f606643A4D2B8FF3E5Dcc89E650a375a",
+    "NETWORK": {
+      "NAME": "Ethereum",
+      "SYMBOL": "ETH",
+      "ID": 1
+    },
+    "NFT_NAME": "Weyezies",
+    "SYMBOL": "WIZ",
+    "MAX_SUPPLY": 10000,
+    "WEI_COST": 20000000000000000,
+    "DISPLAY_COST": 0.02,
+    "GAS_LIMIT": 285000,
+    "MARKETPLACE": "Opensea",
+    "MARKETPLACE_LINK": "https://opensea.io/collection/weyezies",
+    "SHOW_BACKGROUND": true,
+    "DEEPLINK": "https://metamask.app.link/dapp/weyezies.com",  
+    "TWITTER": "https://twitter.com/weyezies",
+    "GFUNKTWITTER": "https://twitter.com/gfunk_eth",
+    "INSTAGRAM": "https://instagram.com/weyezies",
+    "OPENSEA": "https://opensea.io/collection/weyezies",
+    "RARIBLE": "https://rarible.com/weyezies",
+    "DISCORD": "https://discord.gg/AVCatwJn7w",
+    "EMAIL": "mailto:test@example.com"
+  }
+  
