@@ -1,7 +1,7 @@
 :root {
-    --primary: #890DD6;
+    --primary: #477bff;
     --primary-text: #ffffff;
-    --secondary: #890DD6;
+    --secondary: #477bff;
     --secondary-text: #666;
     --accent: #F42D2D;
     --accent-text: #1a1a1a;
@@ -13,15 +13,16 @@
   }
   
 .filter-primary{
-  filter: invert(11%) sepia(84%) saturate(7486%) hue-rotate(280deg) brightness(90%) contrast(101%);
+  filter: invert(44%) sepia(96%) saturate(3109%) hue-rotate(211deg) brightness(102%) contrast(101%);
   margin: -2px 4px;
 }
   
-.filter-white {
+.filter-svg-white {
   filter: invert(100%) sepia(0%) saturate(3424%) hue-rotate(305deg) brightness(114%) contrast(103%);
 }
 
 
 .filter-svg-primary{
-    filter: invert(11%) sepia(84%) saturate(7486%) hue-rotate(280deg) brightness(90%) contrast(101%);
+    /* filter: invert(11%) sepia(84%) saturate(7486%) hue-rotate(280deg) brightness(90%) contrast(101%); */
+    filter: invert(44%) sepia(96%) saturate(3109%) hue-rotate(211deg) brightness(102%) contrast(101%);
   }

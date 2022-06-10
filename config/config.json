@@ -9,8 +9,8 @@
   "NFT_NAME": "Weyezies",
   "SYMBOL": "WIZ",
   "MAX_SUPPLY": 10000,
-  "WEI_COST": 1000000000000000000,
-  "DISPLAY_COST": 1,
+  "WEI_COST": 23000000000000000000,
+  "DISPLAY_COST": 23,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/weyezies",
@@ -22,5 +22,6 @@
   "OPENSEA": "https://opensea.io/collection/weyezies",
   "RARIBLE": "https://rarible.com/weyezies",
   "DISCORD": "https://discord.gg/AVCatwJn7w",
+  "MEDIUM": "https://medium.com/@weyezies",
   "EMAIL": "mailto:test@example.com"
 }
